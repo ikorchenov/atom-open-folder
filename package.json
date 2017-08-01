@@ -2,7 +2,7 @@
   "name": "open-folder",
   "main": "./lib/open-folder",
   "version": "1.2.2",
-  "description": "Highlight folders with opened files",
+  "description": "Highlight folders with opened files like PhpStorm",
   "keywords": [
     "open folder",
     "open",
@@ -16,7 +16,10 @@
     "dir",
     "dirctory",
     "open dirctory",
-    "opened dirctory"
+    "opened dirctory",
+    "PhpStorm",
+    "phpstorm",
+    "webstorm"
   ],
   "repository": "https://github.com/ikorchenov/atom-open-folder",
   "license": "MIT",
