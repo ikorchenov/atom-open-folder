@@ -1,3 +1,3 @@
-# open-folder package
+# Highlight open folders
 
-Highlight open folders
+![](https://raw.githubusercontent.com/ikorchenov/atom-open-folder/master/preview.gif)
